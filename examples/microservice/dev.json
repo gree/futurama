@@ -1,0 +1,9 @@
+{
+  "mysql6": false,
+  "username": "root",
+  "password": "",
+  "host": "localhost",
+  "port": 3306,
+
+  "server_port": 8765
+}

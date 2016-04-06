@@ -1,0 +1,11 @@
+{
+  "trigger_time": %trigger_time%,
+  "trigger_type": "http",
+  "host": "127.0.0.1",
+  "port": 8765,
+  "path": "/downstream/call",
+  "data": {
+    "a": 1,
+    "b": "x"
+  }
+}
